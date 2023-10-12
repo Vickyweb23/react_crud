@@ -1,0 +1,21 @@
+
+
+.btn2:hover{
+    background-color: rgb(214, 47, 47);
+}
+.btn1:hover{
+    background-color: rgb(51, 216, 17);
+}
+.shuffle{
+  background-color: blue;
+}
+.shuffle:hover{
+
+  background-color: red;
+}
+.viu{
+  display: flex;
+}
+.flex-content{
+  display: flex;
+}
